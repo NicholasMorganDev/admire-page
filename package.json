@@ -1,5 +1,17 @@
 {
   "dependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "name": "admire-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://NicholasMorganDev.github.io/admire",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
